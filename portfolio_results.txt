@@ -1,0 +1,12 @@
+Stock Portfolio Results
+==============================
+
+AAPL: 27838 shares @ $180 each = $5,010,840.00
+TSLA: 23124 shares @ $250 each = $5,781,000.00
+GOOGL: 2344534 shares @ $2800 each = $6,564,695,200.00
+AMZN: 763876 shares @ $3200 each = $2,444,403,200.00
+NVDA: 83746 shares @ $450 each = $37,685,700.00
+MSFT: 2463782 shares @ $350 each = $862,323,700.00
+
+------------------------------
+Total Investment Value: $9,919,899,640.00
